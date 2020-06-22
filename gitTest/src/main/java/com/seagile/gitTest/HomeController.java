@@ -36,6 +36,11 @@ public class HomeController {
 		System.out.println("gitTest2");
 		System.out.println("gitTest3");
 		System.out.println("gitTest4444");
+		
+		//https://docs.oracle.com/javase/8/docs/api/ 자바 
+		//https://www.w3schools.com/ css, javaScript
+		//https://jqueryui.com/ jQurey
+		
 		return "home";
 	}
 
